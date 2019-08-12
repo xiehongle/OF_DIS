@@ -91,6 +91,9 @@ Parameters:
 The optical flow output is saves as .flo file.
 (http://sintel.is.tue.mpg.de/downloads)
 
+程序输出的结果为.flo文件，将.flo格式文件，转换成.png文件的工具：
+http://vision.middlebury.edu/flow/submit/
+
 The interface for depth from stereo is exactly the same. The output is saves as pfm file.
 (http://vision.middlebury.edu/stereo/code/)
 
